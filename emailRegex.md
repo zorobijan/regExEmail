@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Email Regular Expression
 
 Regular expressions define a search pattern that are used by programmers to parse out large bodies of text. Today, I will be detailing a regular expression used to parse out email addresses from strings of text.
 ## Summary
